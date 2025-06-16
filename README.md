@@ -2,7 +2,7 @@
 - Object-oriented programming paradigm
 - Uses the concept of objects whihc refuse the real-world entities with state & behaviour
 
-### principles of OOPs concept
+### Principles of OOPs concept
  - Class
  - Object
  - Encapsulation
